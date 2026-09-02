@@ -24,41 +24,17 @@ Currently, I'm building **Deora E-Commerce** while expanding my knowledge of **N
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+Strong / Core
 
-* Java
-* JavaScript (ES6+)
-* TypeScript
-* PHP
-* SQL
+Java JavaScript TypeScript React Next.js HTML CSS
 
-### 🎨 Frontend
+Backend & Database
 
-* HTML5
-* CSS3
-* Bootstrap
-* React.js
-* Next.js
+Node.js Express.js PHP PostgreSQL MySQL MongoDB
 
-### ⚙️ Backend
+Tools / Learning
 
-* Node.js
-* Express.js
-* PHP
-
-### 🗄️ Databases
-
-* MySQL
-* MongoDB
-* PostgreSql
-
-### 🛠️ Tools & Technologies
-
-* Git
-* GitHub
-* REST APIs
-* Figma
-* VS Code
+Git GitHub Docker n8n Cloud AI
 
 ## 🚧 Current Project
 
