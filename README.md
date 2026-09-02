@@ -1,11 +1,7 @@
-## Hi there 👋
 
+# Hi there 👋 I'm Malsha Jayadewa
 
-**gmljayadewa/gmljayadewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi there 👋 I'm GML Jayadewa
-
-🚀 Aspiring Software Engineer | Full-Stack Developer | Next.js, TypeScript & AI Automation Enthusiast | Building **Deora E-Commerce**
+🚀 IT Undergraduate | Full-Stack Developer | Next.js & TypeScript | AI & Cloud Enthusiast
 
 I'm a passionate Software Engineering student and Full-Stack Developer who enjoys building modern, scalable, and user-focused web applications. I love solving real-world problems, exploring new technologies, and continuously improving my skills through hands-on projects.
 
@@ -14,8 +10,8 @@ Currently, I'm building **Deora E-Commerce** while expanding my knowledge of **N
 ## 🚀 About Me
 
 * 🌱 Currently learning **Next.js, TypeScript, DevOps, Cloud Computing, System Design, and AI Automation**
-* 💻 Experienced in developing full-stack web applications using the **MERN Stack** and **PHP**
-* ☕ Strong foundation in **Java**, **MySQL**, **MongoDB**, and object-oriented programming
+* 💻 Experienced in developing full-stack web applications using the **MERN Stack**
+* ☕ Strong foundation in **Java**, **MySQL**, **MongoDB**,Postgresql, and object-oriented programming
 * 🎯 Goal: Become a highly skilled **Software Engineer** specializing in **Full-Stack Development**, **Cloud Technologies**, **DevOps**, and **AI-Powered Applications**
 * 📚 Continuously learning modern software engineering practices and best development techniques
 * 🤝 Open to collaborating on open-source and real-world software projects
