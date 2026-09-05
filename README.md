@@ -1,55 +1,55 @@
 
 # Hi there 👋 I'm Malsha Jayadewa
 
-🚀 IT Undergraduate | Full-Stack Developer | Next.js & TypeScript | AI & Cloud Enthusiast
+### 🚀 Backend & API Integration Developer | Next.js, Node.js, PostgreSQL
 
-I'm a passionate Software Engineering student and Full-Stack Developer who enjoys building modern, scalable, and user-focused web applications. I love solving real-world problems, exploring new technologies, and continuously improving my skills through hands-on projects.
+I'm a Full-Stack Developer specializing in backend development and API 
+integrations for web applications. I help build secure, scalable systems — 
+from authentication and database architecture to connecting third-party 
+services like payment gateways, email providers, and OAuth.
 
-Currently, I'm building **Deora E-Commerce** while expanding my knowledge of **Next.js**, **TypeScript**, **DevOps**, **Cloud Computing**, and **AI Automation**.
-
-## 🚀 About Me
-
-* 🌱 Currently learning **Next.js, TypeScript, DevOps, Cloud Computing, System Design, and AI Automation**
-* 💻 Experienced in developing full-stack web applications using the **MERN Stack**
-* ☕ Strong foundation in **Java**, **MySQL**, **MongoDB**,Postgresql, and object-oriented programming
-* 🎯 Goal: Become a highly skilled **Software Engineer** specializing in **Full-Stack Development**, **Cloud Technologies**, **DevOps**, and **AI-Powered Applications**
-* 📚 Continuously learning modern software engineering practices and best development techniques
-* 🤝 Open to collaborating on open-source and real-world software projects
-* 💬 Ask me about **Java, HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PHP, MySQL, MongoDB, SQL, Git, and GitHub**
-* ⚡ I enjoy turning ideas into real-world applications and learning something new every day.
-
-## 🛠️ Tech Stack
-
-Strong / Core
-
-Java JavaScript TypeScript React Next.js HTML CSS
-
-Backend & Database
-
-Node.js Express.js PHP PostgreSQL MySQL MongoDB
-
-Tools / Learning
-
-Git GitHub Docker n8n Cloud AI
-
-## 🚧 Current Project
-
-### 🛒 Deora E-Commerce
-
-Developing a modern AI-powered full-stack e-commerce platform focused on scalability, automation, and an excellent user experience.
-
-## 🎯 Current Focus
-
-* Master **Next.js** and **TypeScript**
-* Learn **Docker**, **Kubernetes**, **AWS**, and **CI/CD**
-* Explore **AI Automation** and intelligent web applications
-* Improve **System Design** and **Data Structures & Algorithms**
-* Contribute to open-source projects and build production-ready software
-
-## 📫 Connect With Me
-
-* **GitHub:** https://github.com/gmljayadewa
+Currently building **Deora**, a full-stack e-commerce platform, for a client — 
+handling everything from backend architecture to API integrations.
 
 ---
 
-> **"Code with purpose. Learn continuously. Build solutions that make an impact."** 🚀
+### 💻 What I Do
+
+- 🔐 Design and implement secure authentication systems (password hashing, 
+  validation, session management)
+- 🔌 Integrate third-party APIs — payment gateways, email services, OAuth providers
+- 🗄️ Design relational database schemas (PostgreSQL, MySQL, MongoDB)
+- 📄 Build and document REST APIs for smooth handoff and maintainability
+- 🐛 Debug and optimize existing Next.js/Node.js applications
+
+---
+
+### 🛠️ Tech Stack
+
+**Core**
+`JavaScript` `TypeScript` `Java` `React` `Next.js` `Node.js` `Express.js`
+
+**Database & Backend**
+`PostgreSQL` `MySQL` `MongoDB` `Prisma`
+
+**Tools**
+`Git` `GitHub` `Docker` `n8n`
+
+**Currently Exploring**
+`Cloud (AWS)` `CI/CD` `AI Automation` `System Design`
+
+---
+
+### 🚧 Current Project
+
+**🛒 Deora — E-Commerce Platform**
+Building a full-stack e-commerce platform for a client, including secure 
+authentication, backend architecture, and third-party API integrations 
+(payments, email, auth).
+
+---
+
+### 🤝 Let's Connect
+
+Open to freelance work involving API integrations, backend development, 
+or Next.js/Node.js projects. Feel free to reach out or check my pinned repos.
